@@ -1,0 +1,46 @@
+.emailtop{
+    
+    color: rgb(255, 255, 255);
+    
+    width: 15px;
+
+}
+.emailtop:hover{
+    position: absolute;
+    color: rgb(255, 255, 255) !important;
+    margin-left: 5px;
+    width: 15px;
+
+}
+.iconeplay{
+    color: #17b86f;
+}
+.logoyt{
+    color: white;
+}
+.btn-contato{
+    background-color:#018efe;
+    color: white;
+}
+.selecionado:hover{
+    
+}
+.back{
+    background-color: rgb(255, 255, 255);
+}
+.icone-down-nav{
+    font-size: 150%;
+    color: #17b86f !important;
+}
+.logowpp{
+    width: 60%;
+    fill: darkblue;
+}
+@media only screen and (max-width: 600px){
+    .media-positions{
+        margin: auto;
+    }
+}
+
+
+    
